@@ -1,0 +1,17 @@
+{
+  "name": "holamundonode",
+  "version": "1.0.0",
+  "description": "Esta es una aplicacion de muestra de hola mundo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "desarrollo": "node index-desarrollo.js",
+    "prueba-completa": "node index.js"
+  },
+  "author": "Francisco nunez",
+  "license": "ISC",
+  "dependencies": {
+    "mathjs": "^10.6.4"
+  }
+}
